@@ -1,0 +1,28 @@
+header {
+    text-align: center;
+}
+
+
+
+.repositorio {
+    width: 700px;
+    height: 70vh;
+    margin: 0 auto;
+    background-color: rgb(54, 61, 61);
+}
+
+.image {
+    height: 80%;
+}
+
+.imagem img {
+    width: 100%;
+}
+
+.miniaturas {
+    height: 20%;
+}
+
+.miniatura {
+    width: 20px;
+}
